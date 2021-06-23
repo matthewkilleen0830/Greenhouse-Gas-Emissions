@@ -7,7 +7,7 @@ This project uses machine learning to determine the predictability of carbon emi
 
 ![header](static/img/ev_banner.png)
 
-### View the <a href ="https://nbullerds.github.io/ml_co_emission_equiv_prediction" target="_blank">Carbon Emissions Predictor</a> on GitHub Pages.
+### View the <a href ="https://matthewkilleen0830.github.io/Greenhouse-Gas-Emissions/" target="_blank">Carbon Emissions Predictor</a> on GitHub Pages.
 ---
 
 ## Project Team
@@ -57,7 +57,7 @@ Where:
 	
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b<sub>0 </sub>= the value of y when all independent predictor variables (X values) are equal to zero
 
-Linear Equation: Y = 38.875 + -1.1206*GDP + 36.597*Population + -6.6565*Transit + 6.3047*VMT + 4.4656*SQMI + 3.1102*Temp
+Linear Equation: Y = 38.875 + (-1.1206 * GDP) + (36.597 * Population) + (-6.6565 * Transit) + (6.3047 * VMT) + (4.4656 * SQMI) + (3.1102 * Temp)
 
 <b>Website &amp; Visualizations</b>
 
